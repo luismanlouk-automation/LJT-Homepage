@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu (刘俊腾), a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 ## Education
 
@@ -31,7 +31,7 @@ My research interests include:
 
 ## Publications
 
-(* indicates equal contribution / corresponding author order where applicable; Junteng Liu is first author on the first three papers listed.)
+(Junteng Liu is first author on the first three papers listed.)
 
 **2025**
 
