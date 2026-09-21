@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), Hong Kong University of Science and Technology, where I am fortunate to be advised by [Prof. Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, where I am fortunate to be advised by Prof. Junxian He. My research focuses on natural language processing and machine learning.
 
 Research Interests
 ======
@@ -34,14 +34,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 **2025**
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. [[Code]](https://github.com/Vicent0205/SynLogic)
+  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. (First author)
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**  
-  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. [[Code]](https://github.com/Vicent0205/Vision4Chart)
+  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. (First author)
 
 **2024**
 - **On the Universal Truthfulness Hyperplane Inside LLMs**  
-  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. [[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. (First author)
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
